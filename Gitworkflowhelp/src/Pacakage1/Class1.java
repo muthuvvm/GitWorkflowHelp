@@ -6,4 +6,6 @@ public class Class1 {
  // Making some fchanges in the Remote-ORgin
   
   //New line added--adadasd
+  
+  //New changes made on remote side
 }
